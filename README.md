@@ -19,7 +19,7 @@ CSV Data Manager is a desktop application that allows you to create and manipula
 ## Usage
 To use the tool, simply run the main.py script and the GUI will appear.
 
-##Requirements
+## Requirements
 The tool requires Python 3.x and the following packages:
 
 ## Licence
