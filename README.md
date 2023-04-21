@@ -21,6 +21,10 @@ To use the tool, simply run the main.py script and the GUI will appear.
 
 ## Requirements
 The tool requires Python 3.x and the following packages:
+- Pandas
+- PandasTable
+- Matplotlib
+- Tkinter
 
 ## Licence
 This tool is released under the MIT License. Feel free to use and modify it as you wish!
